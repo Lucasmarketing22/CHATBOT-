@@ -47,6 +47,12 @@ Avisos de entrada: los videos que Lucas sube por el chat llegan comprimidos a 48
 - **Cierre:** foto del producto (packshot) 1,5 s con un acercamiento suave y una línea de texto arriba; o placa de marca.
 - Destellos de luz cálida (`mix-blend-mode: screen`) en los cambios de escena; flecha SVG en degradado para "Tap the link below".
 
+## Lo que queda falso (no hacerlo)
+
+- **No simular con efectos lo que no se generó**: un time-lapse día→noche con capas de color y "luces" pintadas en las ventanas se ve falso (Lucas: "horrible", "las luces son cualquier cosa").
+- **No rellenar escenas faltantes con fotos quietas animadas** en medio de tomas de video real: al lado del video se notan. Si una escena no se pudo generar, es mejor sacarla y acortar el video (avisando qué se perdió) que fingirla.
+- Fotos con movimiento sí funcionan como **insertos breves de objetos** (un folleto volando, una vista cenital de un celular), no como reemplazo de tomas de lugares.
+
 ## Reglas de HyperFrames aprendidas a los golpes
 
 - Videos e imágenes temporizados: hijos directos de `#root`, con `id` y `class="clip"`.
