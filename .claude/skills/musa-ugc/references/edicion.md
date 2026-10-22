@@ -27,6 +27,7 @@ Avisos de entrada: los videos que Lucas sube por el chat llegan comprimidos a 48
 4. Cortar video y audio juntos con un `filter_complex_script` (trim/atrim + fundidos de 12 ms + concat). Agrandar con `scale=1080:1920:flags=lanczos,unsharp=5:5:0.55:5:5:0,fps=24`. Tratar la voz con `highpass=f=80,acompressor=threshold=-20dB:ratio=3:attack=5:release=80,loudnorm=I=-16:TP=-1.5:LRA=7`. Sacar video y audio en **un solo comando con dos salidas** (si no, loudnorm queda "sin conectar").
 5. Volver a transcribir el audio cortado para verificar que no se comió ninguna palabra y tomar los tiempos nuevos para los subtítulos.
 6. En los cortes dentro de la misma toma, alternar zoom (`scale` 1 ↔ 1,07 con `tl.set`) para que el salto parezca a propósito.
+7. **La primera palabra necesita aire:** que el video arranque al menos 0,25 s antes de que hable (en el celular el sonido tarda un instante y se come el arranque). Si la IA dijo la primera palabra muy seca (ej. "Wait" de 0,2 s), estirar solo esa palabra con `setpts=PTS/v` + `atempo=v` (v ≈ 0,73). Luego correr todos los subtítulos lo mismo que se corrió el video (medirlo con los cortes reales, no calcularlo) y volver a transcribir para confirmar que se entiende. Lucas: "arranca cortado, no se entiende que dice wait" (VEYLA).
 
 ## Subtítulos
 
