@@ -21,6 +21,7 @@ Lucas (dueño de musa.studio, habla español rioplatense, usa iPhone, no es téc
 10. **Música:** la agrega Lucas. Entregar con voz + efectos y, si hay canción, también una versión sin música.
 11. Sin datos de contacto en las placas finales (por ahora).
 12. Borradores 480p alcanzan para el portfolio; no pagar el paso a 1080p salvo que lo pida.
+13. **Video de referencia = copia exacta, escena por escena, con su avatar.** No resumir, no juntar escenas, no inventar elementos (etiquetas, placas, efectos) que no están, no saltear transiciones ni detalles (qué lleva puesto, cómo cae, cómo entra la cámara). Antes de gastar créditos, hacer el desglose completo y planear las tomas para cubrir **todas** las escenas en la menor cantidad de generaciones. Si algo no se puede copiar igual, decirlo antes, con la alternativa y su costo. Interpretar en vez de copiar le hizo gastar créditos de más (reel inmobiliario de Larkford).
 
 ## Formato por defecto del portfolio
 
@@ -32,7 +33,7 @@ Lucas (dueño de musa.studio, habla español rioplatense, usa iPhone, no es téc
 
 ## Flujo
 
-1. **Analizar la referencia** que manda Lucas: hoja de contacto, cortes de escena, transcripción con tiempos por palabra, niveles de audio. Describirle cómo está armada (en segundos) antes de proponer. → [edición § analizar](references/edicion.md#analizar-una-referencia)
+1. **Desglosar la referencia escena por escena** (regla 13): cortes con `select='gt(scene,0.12)'` (0,25 se saltea muchos), hojas de contacto de **todo** el video a 2–3 cuadros por segundo con el tiempo impreso (`drawtext=text='%{pts\:flt}'`), en tramos de ~14 s; transcripción con tiempos por palabra; música y efectos. Armar una tabla: tiempo, encuadre, acción, objetos/vestuario, texto en pantalla, transición. Mostrársela a Lucas con el plan de tomas y el costo total antes de crear nada. → [edición § analizar](references/edicion.md#analizar-una-referencia)
 2. **Plan + guion + costo.** Guion en inglés que entre en el tiempo (la app admite `round(dur × 2.3)` palabras habladas en Escenas). Proponer cómo replicarlo con lo que hay. Esperar aprobación.
 3. **Fotos en Google Flow (Nano Banana Pro, gratis).** Pasar un prompt por foto. Las fotos de la misma persona se hacen **con la FOTO A como referencia**; el "después" de un antes y después, **editando la foto del "antes"**. Revisar cada foto que vuelve (identidad, rasgo distintivo, texto de la etiqueta, marcas reales visibles). → [prompts](references/flujo-escenas.md#fotos)
 4. **Toma de video en la app → 🎬 Escenas (Seedance 2.5).** Darle a Lucas: qué foto va con qué rol, el texto para pegar, duración/formato/calidad y el costo. → [Escenas](references/flujo-escenas.md)
