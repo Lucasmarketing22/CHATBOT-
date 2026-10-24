@@ -31,6 +31,23 @@ Descripción del reel: "Every word lands on the beat. The camera never stops mov
 - **Globos de chat** ("conversation") que rebotan y se apilan.
 - Corte cada 1–2 s, todo al tiempo de la música (123 BPM).
 
+## 4. Milad Aslani (editor) — `instagram.com/reel/Dew85IgsLQg` (4,8 s)
+
+Muestra de **4 ediciones de cabeza parlante** en grilla 2×2 (cada una con su color). Es el nivel a igualar en videos de una persona hablando.
+
+- **Texto DETRÁS de la persona** (la persona recortada adelante, la palabra gigante atrás: "Usa", "2027"), en verde lima con degradado y brillo; signos "?" flotando; una palabra manuscrita al lado ("In").
+- **Encuadre pensado para el texto:** la persona entera y chica, sentada en un sillón, con mucho aire arriba (fondo de estudio liso blanco o verde). Al generar con Seedance hay que pedir ese encuadre ("wide full-body shot, lots of empty space above the head").
+- **Tarjetas flotantes** con foto y texto, inclinadas, que entran con desenfoque y se apilan ("they care what it fixes", tarjeta roja con "?"), etiquetas tipo píldora.
+- **Una palabra enorme por frase** en el color del video ("sell" rojo, "Scripts" rojo, "Life" cian, "mistake" negro condensado sobre tarjeta cian); el resto de la frase chica y fina arriba.
+- **Revelados:** bloques de píxeles / glitch rojo que arman la palabra, texto que se escribe con estelas de luz, resaltado tipo marcador cian ("This one tip").
+- **Transición tarjeta:** el plano anterior se achica a una tarjeta que se va a un costado con desenfoque de movimiento mientras entra el siguiente.
+- **Collage de stickers** (fotos recortadas con borde) que aparecen de a uno, palabra manuscrita ("Don't") + palabra pesada ("result").
+- Ritmo: algo nuevo cada 0,3–0,5 s; cada video usa **un solo color de acento**.
+
+## Regla de calidad (Lucas)
+
+"Todos los videos con efectos que te mando para que analices los quiero usar con la misma calidad." Cuando manda una referencia: analizarla cuadro por cuadro (hoja a 8 cuadros/s con el tiempo impreso si dura menos de 10 s), anotarla acá con lo que tiene, y cuando se edite con esos recursos **igualar la calidad** (tipografía, tiempos, desenfoques, sonido), revisando cuadro por cuadro contra la referencia antes de entregar. Si algo no se puede igualar (3D complejo, seguimiento de objetos), decirlo antes de empezar.
+
 ## Cómo traducirlo a lo que hacemos
 
 | Recurso | En UGC (con medida) | En anuncio de producto |
@@ -44,9 +61,13 @@ Descripción del reel: "Every word lands on the beat. The camera never stops mov
 | Título que explota / glitch | Cambio del gancho al cuerpo | Apertura |
 | Sonido por cada movimiento | Sutil, pero audible con música (ver volúmenes en la app: whoosh −9 dB, pop −10 dB) | Más presente |
 | Cámara siempre en movimiento | Empuje lento + golpes de zoom | Órbitas, entradas, ojo de pez |
+| Texto detrás de la persona | En el gancho (1 palabra gigante) | Nombre del producto detrás del producto |
+| Tarjetas flotantes con foto | Capturas reales (comentarios, antes/después) | Fotos del producto y beneficios |
+| Una palabra enorme por frase + resto chico | Sí, es el estilo "Pro" con más fuerza | Sí |
+| Encuadre con aire arriba | Pedirlo al generar la toma | Packshots con espacio para texto |
 
 **Lo hace la app sola** (✂️ Editar → ⚡ Pro, ffmpeg): captions con rebote, palabra clave con brillo, emojis 3D, zoom, barrido/destello/glitch, sonidos, color y cierre con producto.
-**Lo hago yo a mano en HyperFrames** (necesita navegador para renderizar): 3D (anillos, letras-objeto, celular volando), ojo de pez, lápiz que escribe, títulos que explotan, globos de chat, sincronía con la música.
+**Lo hago yo a mano en HyperFrames** (necesita navegador para renderizar): 3D (anillos, letras-objeto, celular volando), ojo de pez, lápiz que escribe, títulos que explotan, globos de chat, sincronía con la música, texto detrás de la persona (recorte con `remove-background` cuadro por cuadro), tarjetas flotantes y collage de stickers, revelados de píxeles y transición tarjeta.
 
 ## Lo que no se usa aunque aparezca en listas de "edición viral"
 
