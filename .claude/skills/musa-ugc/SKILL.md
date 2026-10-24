@@ -46,3 +46,4 @@ Lucas (dueño de musa.studio, habla español rioplatense, usa iPhone, no es téc
 
 - **UGC / TikTok (por defecto):** subtítulo de una línea grande con la palabra clave en degradado, recortes con zoom alternado, pops y whooshes. → [edición § subtítulos](references/edicion.md#subtítulos)
 - **Editorial / documental (marcas premium):** grano de película, bloom suave, palabra por palabra con acentos en itálica serif, texto stop-motion, pantalla dividida. → [estilo editorial](references/estilo-editorial.md)
+- **Motion / anuncios de producto:** recursos de las referencias que mandó Lucas (tipografía 3D, anillos de texto, lápiz que escribe, sonido por cada movimiento, paleta de un color), cuándo usarlos en UGC y cuándo en anuncios, y qué no usar nunca. → [referencias de motion](references/referencias-motion.md)
