@@ -44,6 +44,17 @@ Muestra de **4 ediciones de cabeza parlante** en grilla 2×2 (cada una con su co
 - **Collage de stickers** (fotos recortadas con borde) que aparecen de a uno, palabra manuscrita ("Don't") + palabra pesada ("result").
 - Ritmo: algo nuevo cada 0,3–0,5 s; cada video usa **un solo color de acento**.
 
+## 5. Anuncio "spec" de reloj (Lamin Sillah) — `instagram.com/reel/Dbn_aGdMKaY` (18 s, 24 fps)
+
+Formato de **anuncio de producto hecho 100 % con IA**, para portfolio. Lucas: "una idea que me pareció buena para crear anuncios".
+
+- **0–3,3 s, "los ingredientes":** fondo beige liso; aparecen de a una, con un pop, las tarjetas de lo que se usó: "Avatar IA" (foto carnet del modelo), "Paisaje IA" (velero), "accesorio + Ropa" (reloj, camisa, pantalón). Es el gancho: muestra el proceso y que todo es IA.
+- **3,3–18 s:** 8 planos de 1,5–2 s, cortados con la música, **sin voz**: mano en el timón con el reloj (contrapicado), poniéndose el reloj, macro del reloj en la muñeca, un plano de ambiente en blanco y negro (jarcias), caminando descalzo por la cubierta, primer plano de la cara acomodándose el reloj, apoyado en la baranda frente al mar, y cierre con la mano en el timón + logo de la marca.
+- **El producto aparece en todos los planos** (salvo el de ambiente). Una sola luz (atardecer dorado) y un solo color en toda la pieza, poca profundidad de campo, cámara de cine.
+- Las reglas del autor (en la descripción): elegir **una sola luz** para toda la pieza, escribir el color en **códigos hex** y no en adjetivos, **fijar el vestuario antes del primer plano** y **nombrar el producto en cada plano** del prompt. "La herramienta ejecuta. La dirección sigue siendo tuya."
+- **Cómo lo hacemos nosotros:** fotos en Flow (cara del modelo, ropa, producto, lugar) → Escenas con Persona A + ropa + objeto + lugar, 2–3 tomas de 10–15 s con varios planos cada una (mismo bloque de luz y color en todos los prompts) → edición: tablero de ingredientes con tarjetas que entran con pop, cortes con la música, logo al final.
+- **Marcas reales:** como "spec ad" de portfolio se usa en la industria, pero aclarar "anuncio no oficial / spec" al publicarlo; si no, marca inventada (como VEYLA).
+
 ## Regla de calidad (Lucas)
 
 "Todos los videos con efectos que te mando para que analices los quiero usar con la misma calidad." Cuando manda una referencia: analizarla cuadro por cuadro (hoja a 8 cuadros/s con el tiempo impreso si dura menos de 10 s), anotarla acá con lo que tiene, y cuando se edite con esos recursos **igualar la calidad** (tipografía, tiempos, desenfoques, sonido), revisando cuadro por cuadro contra la referencia antes de entregar. Si algo no se puede igualar (3D complejo, seguimiento de objetos), decirlo antes de empezar.
@@ -65,6 +76,8 @@ Muestra de **4 ediciones de cabeza parlante** en grilla 2×2 (cada una con su co
 | Tarjetas flotantes con foto | Capturas reales (comentarios, antes/después) | Fotos del producto y beneficios |
 | Una palabra enorme por frase + resto chico | Sí, es el estilo "Pro" con más fuerza | Sí |
 | Encuadre con aire arriba | Pedirlo al generar la toma | Packshots con espacio para texto |
+| Tablero de "ingredientes" al inicio | Para videos de musa.studio y la comunidad (mostrar el proceso) | Gancho de anuncios spec |
+| Producto en cada plano + una sola luz | — | Siempre |
 
 **Lo hace la app sola** (✂️ Editar → ⚡ Pro, ffmpeg): captions con rebote, palabra clave con brillo, emojis 3D, zoom, barrido/destello/glitch, sonidos, color y cierre con producto.
 **Lo hago yo a mano en HyperFrames** (necesita navegador para renderizar): 3D (anillos, letras-objeto, celular volando), ojo de pez, lápiz que escribe, títulos que explotan, globos de chat, sincronía con la música, texto detrás de la persona (recorte con `remove-background` cuadro por cuadro), tarjetas flotantes y collage de stickers, revelados de píxeles y transición tarjeta.
