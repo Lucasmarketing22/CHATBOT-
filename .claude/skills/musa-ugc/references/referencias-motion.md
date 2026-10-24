@@ -69,6 +69,18 @@ Lucas: "una idea que me pareció buena para crear anuncios". **Es un formato par
 
 **Cómo lo hacemos:** fotos en Flow (cara del modelo, vestuario, producto ficticio con su logo, lugar) → Escenas con Persona A + ropa + objeto + lugar, 2–3 tomas de 10–15 s con varios planos cada una (el mismo bloque de luz y color en todos los prompts, el producto nombrado en cada plano) → edición: tablero de ingredientes con tarjetas que entran con pop, cortes con la música, logo al final. Costo de referencia: 2 tomas de 10 s en borrador ≈ US$2,80.
 
+## 6. Comercial de auto (embajador) — `instagram.com/reel/De178mXBif7` (39 s, 16:9, 25 cps)
+
+Lucas lo mandó como ejemplo de **impacto de publicidad de principio a fin** (después de que el anuncio SOLVANE le pareció "prolijo pero tibio").
+
+- **Arranque 0–5 s: ~14 cortes en 5 s (≈ 0,35 s cada uno)** y al ritmo de la música: cara, mano en la palanca, asfalto con desenfoque de velocidad, el auto entero, la rueda de cerca, la parrilla con el logo, el velocímetro subiendo, el volante. Entre casi todos los cortes hay **un cuadro de barrido con desenfoque** (o un destello blanco o azul) en vez de un corte seco.
+- **5,0–5,4 s: negro total** (la música "respira") y recién ahí arranca la parte más tranquila: la persona camina hacia el auto, abre la puerta, se sienta.
+- El ritmo **alterna rápido y lento**: tramos de 3–4 planos de 1–1,5 s y cada 8–10 s otra ráfaga (13,3–13,5 s cortes de 0,05 s con un destello de color rojo/verde sobre la cara; 16,4–16,7 s cortes estroboscópicos).
+- **Planos de detalle** del producto en uso (palanca, botones, pantalla, rueda, logo) + **planos de la persona** (perfil, mirada, manos) + **planos de movimiento** (desde el piso, travelling, árboles pasando).
+- Color: frío, desaturado, negros profundos, mucho contraste. Cierre: **placa negra con el logo y el lema**, sola, 3–4 s.
+
+**Lo que hay que copiar para dar impacto:** densidad de cortes al principio (0,3–0,5 s), barridos con desenfoque entre planos, un silencio en negro antes de la segunda parte, planos de detalle macro, ráfagas cada 8–10 s, todo cortado sobre los golpes de la música y un color de cine con contraste. **Para eso hacen falta muchos planos distintos:** al generar, pedir 4–6 planos por toma (detalle, macro, persona, movimiento, ambiente); con 3 planos no hay edición que lo reemplace.
+
 ## Regla de calidad (Lucas)
 
 "Todos los videos con efectos que te mando para que analices los quiero usar con la misma calidad." Cuando manda una referencia: analizarla cuadro por cuadro (hoja a 8 cuadros/s con el tiempo impreso si dura menos de 10 s), anotarla acá con lo que tiene, y cuando se edite con esos recursos **igualar la calidad** (tipografía, tiempos, desenfoques, sonido), revisando cuadro por cuadro contra la referencia antes de entregar. Si algo no se puede igualar (3D complejo, seguimiento de objetos), decirlo antes de empezar.
