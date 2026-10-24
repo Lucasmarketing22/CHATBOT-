@@ -29,6 +29,7 @@ Lucas (dueño de musa.studio, habla español rioplatense, usa iPhone, no es téc
 ## Formato por defecto del portfolio
 
 - Vertical 9:16, **en inglés con subtítulos en español** (voseo: "Tocá", "Comentá").
+- **Cortos por defecto, para gastar menos** (Lucas): misma calidad y mismos efectos, menos segundos. Anuncio de producto ≈ 10 s (3 s de tablero de ingredientes, que sale gratis en la edición, + una toma de 8 s con varios planos); UGC hablado ≈ 12–15 s (gancho + 2–3 frases + cierre). Seedance cobra por segundo y su mínimo es 4 s por toma. Si un video necesita ser más largo, proponerlo con el costo y esperar el OK.
 - Productos y marcas **inventados**. Antes de usar un nombre, buscarlo en la web y descartar los parecidos a marcas reales (avisar que es una búsqueda rápida, no un chequeo legal).
 - Presentadores **llamativos pero reales**: un rasgo que se recuerde (color de pelo, corte, accesorio, color de ropa) con piel con poros y sin retoque. Variar género, edad y origen entre videos.
 - Nada de pausas ni silencios de "IA": recortar entre frases (ver [edición](references/edicion.md#recortar-pausas)).
