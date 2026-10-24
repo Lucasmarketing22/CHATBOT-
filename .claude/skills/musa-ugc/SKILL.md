@@ -26,6 +26,8 @@ Lucas (dueño de musa.studio, habla español rioplatense, usa iPhone, no es téc
 
 15. **Todo producto es ficticio.** Cada cosa que se cree (reloj, crema, rueda, foto, lo que sea) lleva marca y producto inventados, con su propio nombre y logo. No recordarle que los logos reales son privados: ya lo sabe. Las referencias con marcas reales se usan solo como estilo.
 
+16. **El plan correcto a la primera.** No proponer la versión barata "para probar" ni ofrecer planes B después: diseñar desde el principio lo que da el mejor resultado (planos suficientes, calidad final, edición completa) y decir el costo. Lucas: "si voy a crear un video es porque voy a gastar créditos… prefiero hacerlo una vez y que quede bien". El borrador sigue sirviendo para revisar antes de pagar el 1080p de la misma toma, no para recortar.
+
 ## Formato por defecto del portfolio
 
 - Vertical 9:16, **en inglés con subtítulos en español** (voseo: "Tocá", "Comentá").
