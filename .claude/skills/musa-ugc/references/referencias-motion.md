@@ -44,16 +44,30 @@ Muestra de **4 ediciones de cabeza parlante** en grilla 2×2 (cada una con su co
 - **Collage de stickers** (fotos recortadas con borde) que aparecen de a uno, palabra manuscrita ("Don't") + palabra pesada ("result").
 - Ritmo: algo nuevo cada 0,3–0,5 s; cada video usa **un solo color de acento**.
 
-## 5. Anuncio "spec" de reloj (Lamin Sillah) — `instagram.com/reel/Dbn_aGdMKaY` (18 s, 24 fps)
+## 5. Formato "anuncio de producto con IA" — `instagram.com/reel/Dbn_aGdMKaY` (18 s, 24 fps)
 
-Formato de **anuncio de producto hecho 100 % con IA**, para portfolio. Lucas: "una idea que me pareció buena para crear anuncios".
+Lucas: "una idea que me pareció buena para crear anuncios". **Es un formato para cualquier producto** (la referencia usa un reloj, pero es solo la muestra). El producto y la marca siempre son inventados (regla 15).
 
-- **0–3,3 s, "los ingredientes":** fondo beige liso; aparecen de a una, con un pop, las tarjetas de lo que se usó: "Avatar IA" (foto carnet del modelo), "Paisaje IA" (velero), "accesorio + Ropa" (reloj, camisa, pantalón). Es el gancho: muestra el proceso y que todo es IA.
-- **3,3–18 s:** 8 planos de 1,5–2 s, cortados con la música, **sin voz**: mano en el timón con el reloj (contrapicado), poniéndose el reloj, macro del reloj en la muñeca, un plano de ambiente en blanco y negro (jarcias), caminando descalzo por la cubierta, primer plano de la cara acomodándose el reloj, apoyado en la baranda frente al mar, y cierre con la mano en el timón + logo de la marca.
-- **El producto aparece en todos los planos** (salvo el de ambiente). Una sola luz (atardecer dorado) y un solo color en toda la pieza, poca profundidad de campo, cámara de cine.
-- Las reglas del autor (en la descripción): elegir **una sola luz** para toda la pieza, escribir el color en **códigos hex** y no en adjetivos, **fijar el vestuario antes del primer plano** y **nombrar el producto en cada plano** del prompt. "La herramienta ejecuta. La dirección sigue siendo tuya."
-- **Cómo lo hacemos nosotros:** fotos en Flow (cara del modelo, ropa, producto, lugar) → Escenas con Persona A + ropa + objeto + lugar, 2–3 tomas de 10–15 s con varios planos cada una (mismo bloque de luz y color en todos los prompts) → edición: tablero de ingredientes con tarjetas que entran con pop, cortes con la música, logo al final.
-- **Marcas reales:** como "spec ad" de portfolio se usa en la industria, pero aclarar "anuncio no oficial / spec" al publicarlo; si no, marca inventada (como VEYLA).
+**Estructura de la referencia:**
+- **0–3,3 s, "los ingredientes":** fondo beige liso; aparecen de a una, con un pop, las tarjetas de lo que se usó, con etiqueta debajo: "Avatar IA" (foto carnet del modelo), "Paisaje IA" (el lugar), "accesorio + Ropa" (producto y vestuario). Es el gancho: muestra el proceso y que todo es IA.
+- **3,3–18 s:** 8 planos de 1,5–2 s cortados con la música, **sin voz**, con el producto en todos (salvo un plano de ambiente): detalle del producto en uso, la persona usándolo/poniéndoselo, macro del producto, plano de ambiente (ahí en blanco y negro), la persona en movimiento en el lugar, primer plano de la cara con el producto, plano abierto del lugar, cierre con el producto + logo.
+- Una sola luz (atardecer dorado) y un solo color en toda la pieza, poca profundidad de campo, look de cine.
+- Reglas del autor: elegir **una sola luz** para toda la pieza, escribir el color en **códigos hex** y no en adjetivos, **fijar el vestuario antes del primer plano** y **nombrar el producto en cada plano** del prompt. "La herramienta ejecuta. La dirección sigue siendo tuya."
+
+**Plantilla para cualquier producto (adaptar los planos a cómo se usa):**
+| # | Plano | Ejemplos según el producto |
+|---|---|---|
+| 0 | Tablero de ingredientes (3 s) | Cara del modelo · lugar · producto + vestuario |
+| 1 | Detalle del producto en uso, contrapicado | Mano en el volante con el reloj · gota de sérum en los dedos · zapatilla pisando el asfalto |
+| 2 | La persona empieza a usarlo | Se pone el reloj · se aplica la crema · se ata la zapatilla |
+| 3 | Macro del producto | Esfera del reloj · textura de la crema · suela |
+| 4 | Plano de ambiente sin producto (puede ir en B/N) | Jarcias, olas, ciudad, vapor de la ducha |
+| 5 | La persona en movimiento en el lugar, producto visible | Camina, corre, maneja |
+| 6 | Primer plano de la cara con el producto | Mira a cámara mientras lo usa |
+| 7 | Plano abierto del lugar con la persona | Apoyado frente al paisaje |
+| 8 | Cierre: producto en primer plano + logo inventado | Placa de marca |
+
+**Cómo lo hacemos:** fotos en Flow (cara del modelo, vestuario, producto ficticio con su logo, lugar) → Escenas con Persona A + ropa + objeto + lugar, 2–3 tomas de 10–15 s con varios planos cada una (el mismo bloque de luz y color en todos los prompts, el producto nombrado en cada plano) → edición: tablero de ingredientes con tarjetas que entran con pop, cortes con la música, logo al final. Costo de referencia: 2 tomas de 10 s en borrador ≈ US$2,80.
 
 ## Regla de calidad (Lucas)
 
