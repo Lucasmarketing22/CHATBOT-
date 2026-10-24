@@ -68,6 +68,14 @@ Avisos de entrada: los videos que Lucas sube por el chat llegan comprimidos a 48
 - El render baja el audio ≈ 10 dB y el video de Seedance a veces trae audio más corto: **mezclar el sonido afuera** con ffmpeg (`adelay` + `amix normalize=0` + `alimiter`, `apad` hasta la duración total) y unirlo al MP4 del render (`-c:v libx264 -crf 20–23 -c:a aac -b:a 192k -movflags +faststart`). Efectos en `/root/.claude/skills/media-use/audio/assets/sfx/` (pop, whoosh-short, sparkle, click, impact-bass-1), licencia Pixabay.
 - El render sale a 30 fps aunque el material sea de 24: al extraer cuadros por número, dividir por 30.
 
+## Cortar sobre música
+
+1. **Pedir siempre el audio de la parte que va a usar** (archivo o video). Sin audio no se corta "a ojo".
+2. **Medir el compás, no solo el BPM:** con librosa sacar el golpe fuerte y ver si se divide en 2 o en 3. "Lose Control" (Teddy Swims) es una balada en 12/8: golpe fuerte ≈ 1,12 s dividido en 3 (0,37 s). En SOLVANE v2 corté dividiendo en 2 (0,566 s) y la mitad de los cortes caían entre notas.
+3. **Encontrar el estribillo con la letra:** transcribir con faster-whisper (small.en, `word_timestamps=True`) y arrancar el anuncio en el golpe anterior al estribillo. (`hyperframes transcribe` falla con SIGILL en este servidor.)
+4. **Balada = cortes lentos:** 1–2 golpes fuertes por plano, cámara lenta en la palabra clave, transiciones suaves (luz cálida + leve acercamiento), sin barridos ni ráfagas. Lucas: "que los cortes no sean tan rápidos".
+5. **Entregar dos versiones:** con la música pegada (para ver cómo queda) y sin música (efectos + ambiente). La versión en vivo de una canción no es la de la biblioteca de Instagram: avisar que con la de estudio los cortes no caen exactos y decir dónde arrancarla.
+
 ## Control de calidad y entrega
 
 - Snapshots del proyecto en los momentos clave **antes** del render. Después del render, tiras de cuadros alrededor de cada transición (`-ss T -t 1 -vf fps=10,tile=…`) para cazar cuadros colados.
