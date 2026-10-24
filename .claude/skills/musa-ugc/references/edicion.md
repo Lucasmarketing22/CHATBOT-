@@ -48,7 +48,7 @@ Avisos de entrada: los videos que Lucas sube por el chat llegan comprimidos a 48
 - **Cierre:** foto del producto (packshot) 1,5 s con un acercamiento suave y una línea de texto arriba; o placa de marca.
 - Destellos de luz cálida (`mix-blend-mode: screen`) en los cambios de escena; flecha SVG en degradado para "Tap the link below".
 - **Cámara lenta sin saltos** (Seedance da 24 cps): cortar el tramo y `minterpolate=fps=44:mi_mode=mci:mc_mode=aobmc:vsbmc=1,setpts=PTS/0.55` (×0,55). Revisar manos y bordes; en SOLVANE (ponerse anteojos) salió limpio. Script de ejemplo: `/home/user/demo-musa/solvane/armar-base.sh`.
-- **Tablero de ingredientes** (anuncio con IA): tarjetas tipo polaroid sobre fondo beige que caen con `back.out` y un pop cada una; la primera ya entrando en el cuadro 0; al final la cámara entra en la tarjeta del producto (escala 2,6 + desenfoque) y un destello lleva al primer plano. Proyecto: `/home/user/demo-musa/solvane/`.
+- **Tablero de ingredientes** (SOLO si Lucas pide mostrar el proceso para musa.studio o la comunidad; **nunca en un anuncio de producto**): tarjetas tipo polaroid sobre fondo beige que caen con `back.out` y un pop cada una; la primera ya entrando en el cuadro 0; al final la cámara entra en la tarjeta del producto (escala 2,6 + desenfoque) y un destello lleva al primer plano. Proyecto: `/home/user/demo-musa/solvane/`.
 - **Seedance a veces cambia la luz dentro de un plano** cuando entra la persona (SOLVANE: el poste pasó de verdoso a cálido en 0,92 s): arrancar el plano después del salto.
 
 ## Lo que queda falso (no hacerlo)

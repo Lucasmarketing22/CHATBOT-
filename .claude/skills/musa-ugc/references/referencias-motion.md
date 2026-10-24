@@ -102,7 +102,7 @@ Lucas lo mandó como ejemplo de **impacto de publicidad de principio a fin** (de
 | Tarjetas flotantes con foto | Capturas reales (comentarios, antes/después) | Fotos del producto y beneficios |
 | Una palabra enorme por frase + resto chico | Sí, es el estilo "Pro" con más fuerza | Sí |
 | Encuadre con aire arriba | Pedirlo al generar la toma | Packshots con espacio para texto |
-| Tablero de "ingredientes" al inicio | Para videos de musa.studio y la comunidad (mostrar el proceso) | Gancho de anuncios spec |
+| Tablero de "ingredientes" al inicio | Solo para videos de musa.studio y la comunidad que muestren el proceso, si Lucas lo pide | **Nunca** en un anuncio de producto (Lucas, SOLVANE: "es irrelevante"); ahí van más planos reales |
 | Producto en cada plano + una sola luz | — | Siempre |
 
 **Lo hace la app sola** (✂️ Editar → ⚡ Pro, ffmpeg): captions con rebote, palabra clave con brillo, emojis 3D, zoom, barrido/destello/glitch, sonidos, color y cierre con producto.
