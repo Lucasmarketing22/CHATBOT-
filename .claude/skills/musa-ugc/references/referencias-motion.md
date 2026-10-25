@@ -81,6 +81,15 @@ Lucas lo mandó como ejemplo de **impacto de publicidad de principio a fin** (de
 
 **Lo que hay que copiar para dar impacto:** densidad de cortes al principio (0,3–0,5 s), barridos con desenfoque entre planos, un silencio en negro antes de la segunda parte, planos de detalle macro, ráfagas cada 8–10 s, todo cortado sobre los golpes de la música y un color de cine con contraste. **Para eso hacen falta muchos planos distintos:** al generar, pedir 4–6 planos por toma (detalle, macro, persona, movimiento, ambiente); con 3 planos no hay edición que lo reemplace.
 
+## 7. Comercial de lentes inteligentes con IA (kaye.creatives, "How I Made a $1M Oakley x Meta Commercial") — `youtu.be/d-TCtUhaLiU` (anuncio de 40 s, 16:9, 24 fps)
+
+Lucas mandó los primeros 42 s: el anuncio terminado y el arranque del detrás de escena. **No se ve qué herramientas usó**: no inventarlo.
+- **Idea:** deportistas extremos que le hablan al asistente de voz de los lentes. El diálogo con el asistente cuenta qué hace el producto sin explicarlo ("Hey Meta, are you filming?" / "Already on it!"; "How much further?" / "10 more miles, Kate. You can do it."; "What altitude am I at?" / "You're at 3,067 meters… Keep pushing.").
+- **Estructura (cortes medidos):** 0–6 s gancho raro (cuelga cabeza abajo del borde de un acantilado, el lente espejado en primer plano) → 6–8,5 plano general + logo de la marca sobre las nubes (el logo aparece temprano, a los 7 s) → 8,5–18 wingsuit: de frente gritando, pasa al lado de escaladores en la pared (escala y humor), por una grieta, POV con las manos → 18–24 ciclista en ruta de montaña con niebla (diálogo) → 24–28 jinete al galope en un salar (polvo) → 28–32 primer plano de perfil con el lente espejado azul y viento → 32–38 alpinista de noche con linterna frontal y las luces de la ciudad abajo (diálogo) → 38–40 surfista dentro del tubo.
+- **Ritmo:** un deporte cada 4–6 s; dentro de cada uno, plano general → primer plano del lente → diálogo. Sin música fuerte que tape: la voz del asistente manda.
+- **Look:** gris y nublado de cine (contraste bajo, verdes apagados), con un color de acento repetido en el vestuario (rosa fucsia con negro) en todos los deportistas para unir la campaña. Lentes espejados (dorado, azul) siempre visibles. Subtítulos amarillos chicos abajo, solo en los diálogos.
+- **Para nosotros:** misma idea con lentes de marca inventada (ej. VYRA). Versión portfolio de 15 s: 3 deportes × 4 s + logo. Diálogo en inglés con subtítulos en español (en anuncios sí puede haber voz; los ganchos van sin voz).
+
 ## Regla de calidad (Lucas)
 
 "Todos los videos con efectos que te mando para que analices los quiero usar con la misma calidad." Cuando manda una referencia: analizarla cuadro por cuadro (hoja a 8 cuadros/s con el tiempo impreso si dura menos de 10 s), anotarla acá con lo que tiene, y cuando se edite con esos recursos **igualar la calidad** (tipografía, tiempos, desenfoques, sonido), revisando cuadro por cuadro contra la referencia antes de entregar. Si algo no se puede igualar (3D complejo, seguimiento de objetos), decirlo antes de empezar.
