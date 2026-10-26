@@ -28,7 +28,7 @@ En la app (app-avatar-silk.vercel.app) → **🎬 Escenas**. Tres pasos en panta
 
 1. **🖼️ Fotos de referencia.** Hasta 9. Debajo de cada una, elegir qué es: *Persona A/B/C, Lugar, Ropa, Objeto*. Solo van las fotos que la IA tiene que usar en la toma. Las que son para la edición (selfies, frasco flotante, estantes) **no van acá**: Lucas las manda por el chat.
 2. **✍️ La escena y los diálogos.** Cuadro de texto grande (ejemplo en gris "Ej: Handheld smartphone video…"). Si quedó el texto de la escena anterior, borrarlo. Lo hablado va **entre comillas**. La app cuenta las palabras: máximo `round(dur × 2.3)` → 8 s: 18, 10 s: 23, 15 s: 35, 20 s: 46, 30 s: 69.
-3. **🎬 Video.** ⏱️ Duración (8/10/15/20/30 s), 📐 Formato (📱 Vertical 9:16), ✨ Calidad (🧪 Borrador 480p) → botón **🧪 Crear borrador** → confirmar. Puede tardar más de 10 min.
+3. **🎬 Video.** ⏱️ Duración (8/10/15/20/30 s), 📐 Formato (📱 Vertical 9:16), ✨ Calidad del plan aprobado (720p o 1080p; 720p si después se van a sacar ángulos nuevos) → botón **🎬 Crear video** → confirmar. Puede tardar más de 10 min.
 
 **Plantilla: persona hablando a cámara con cortes (UGC)**
 ```
