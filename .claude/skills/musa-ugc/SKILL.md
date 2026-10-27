@@ -30,6 +30,7 @@ Si Lucas manda un **video de referencia**, la fase 1 es el desglose escena por e
    - Escenas agrega "No on-screen text, captions, subtitles, watermarks or logos" y los roles de cada foto en orden. Si hay producto con etiqueta o logo impreso, aclarar que la etiqueta es parte del producto y siempre se ve.
    - Nada se mueve solo: cada acción tiene quién la hace.
    - Comillas solo en lo hablado; diálogo dentro de las palabras que entran.
+   - **Sin diálogo:** si nadie habla, decirlo en ACTION, AUDIO y LOCKS (boca cerrada, sin mover los labios, sin murmurar, solo gestos). Sonrisas con la boca cerrada: si mira a cámara y abre la boca, Seedance la hace hablar.
 2. **El paso contra el plan, las fotos y lo que la app permite:**
    - Duración del prompt = un botón que existe en la app; los planos suman exacto y no se pisan.
    - Fotos subidas en el orden que el prompt nombra, con el rol correcto, y que esa foto realmente muestre lo que el prompt dice (lugar, estación, luz, objetos).
