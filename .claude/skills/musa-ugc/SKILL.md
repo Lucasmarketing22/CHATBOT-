@@ -22,6 +22,18 @@ Lucas pide un video ("armemos un UGC / una publicidad / algo cinematográfico") 
 
 Si Lucas manda un **video de referencia**, la fase 1 es el desglose escena por escena (regla 12) en vez de ideas. Si manda un **video ya hecho** para editar, se salta a la fase 5.
 
+### Antes de mandar cualquier prompt que gasta (sin que Lucas lo pida)
+
+Releer el prompt completo como lo va a leer Seedance y corregir antes de enviarlo:
+1. **Lo que agrega la app:** Escenas suma "No on-screen text, captions, subtitles, watermarks or logos" y los roles de cada foto en orden. Si hay producto con etiqueta o logo impreso, aclarar que la etiqueta es parte del producto y siempre se ve.
+2. **Cada acción tiene quién la hace:** nada se mueve solo (una botella no sirve sola, una puerta no se abre sola).
+3. **El gancho y el remate caen donde tienen que caer:** el corte o el efecto pegado a la acción que lo dispara, sin segundos muertos.
+4. **Tiempos:** los planos suman la duración exacta y no se pisan; diálogo dentro de las palabras que entran.
+5. **Comillas solo en lo hablado.** Fotos subidas en el orden que el prompt nombra, con su rol.
+6. **Coherencia con las fotos:** el primer plano igual a la foto de referencia; luz y lugar sin contradicciones.
+
+Mandarlo recién cuando pasa los 6 puntos.
+
 ## Los tres tipos de video
 
 | | **UGC** | **Publicidad de producto** | **Cinematográfico** |
