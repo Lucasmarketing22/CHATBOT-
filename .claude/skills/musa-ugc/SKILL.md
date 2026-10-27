@@ -22,17 +22,25 @@ Lucas pide un video ("armemos un UGC / una publicidad / algo cinematográfico") 
 
 Si Lucas manda un **video de referencia**, la fase 1 es el desglose escena por escena (regla 12) en vez de ideas. Si manda un **video ya hecho** para editar, se salta a la fase 5.
 
-### Antes de mandar cualquier prompt que gasta (sin que Lucas lo pida)
+### Orden de Lucas: revisar 3 veces antes de mandarlo a crear
 
-Releer el prompt completo como lo va a leer Seedance y corregir antes de enviarlo:
-1. **Lo que agrega la app:** Escenas suma "No on-screen text, captions, subtitles, watermarks or logos" y los roles de cada foto en orden. Si hay producto con etiqueta o logo impreso, aclarar que la etiqueta es parte del producto y siempre se ve.
-2. **Cada acción tiene quién la hace:** nada se mueve solo (una botella no sirve sola, una puerta no se abre sola).
-3. **El gancho y el remate caen donde tienen que caer:** el corte o el efecto pegado a la acción que lo dispara, sin segundos muertos.
-4. **Tiempos:** los planos suman la duración exacta y no se pisan; diálogo dentro de las palabras que entran.
-5. **Comillas solo en lo hablado.** Fotos subidas en el orden que el prompt nombra, con su rol.
-6. **Coherencia con las fotos:** el primer plano igual a la foto de referencia; luz y lugar sin contradicciones.
+"No me gusta gastar créditos al pedo." Antes de pasarle **cualquier paso que gasta** (foto, toma, paso a 1080p), revisarlo **3 veces, cada una más a fondo**, sin que él lo pida. Si una pasada encuentra un error, corregirlo y volver a empezar desde la primera.
 
-Mandarlo recién cuando pasa los 6 puntos.
+1. **El prompt contra Seedance y la app:**
+   - Escenas agrega "No on-screen text, captions, subtitles, watermarks or logos" y los roles de cada foto en orden. Si hay producto con etiqueta o logo impreso, aclarar que la etiqueta es parte del producto y siempre se ve.
+   - Nada se mueve solo: cada acción tiene quién la hace.
+   - Comillas solo en lo hablado; diálogo dentro de las palabras que entran.
+2. **El paso contra el plan, las fotos y lo que la app permite:**
+   - Duración del prompt = un botón que existe en la app; los planos suman exacto y no se pisan.
+   - Fotos subidas en el orden que el prompt nombra, con el rol correcto, y que esa foto realmente muestre lo que el prompt dice (lugar, estación, luz, objetos).
+   - El gancho y el remate caen pegados a la acción que los dispara.
+   - Costo correcto para esa calidad y duración.
+3. **Simulación completa, buscando cualquier cosa que haga gastar de más:**
+   - Hacer cada paso como Lucas en el celular (qué toca, qué elige, qué pega).
+   - Imaginar el video cuadro por cuadro como lo generaría Seedance: contradicciones entre fotos y texto, partes que puede juntar o inventar, continuidad entre tomas.
+   - Si algo puede salir mal, decirlo antes con la solución.
+
+Mandarlo recién cuando pasa las 3 revisiones.
 
 ## Los tres tipos de video
 
