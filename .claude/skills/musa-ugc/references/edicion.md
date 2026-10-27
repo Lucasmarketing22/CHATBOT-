@@ -80,5 +80,6 @@ Avisos de entrada: los videos que Lucas sube por el chat llegan comprimidos a 48
 
 - Snapshots del proyecto en los momentos clave **antes** del render. Después del render, tiras de cuadros alrededor de cada transición (`-ss T -t 1 -vf fps=10,tile=…`) para cazar cuadros colados.
 - Verificar duración, que el audio dure lo mismo que el video y que el peso sea < 16 MB (si no, `crf 23`).
+- **Medir dónde entra la música** en la mezcla (nivel cada 0,2 s): debe estar en silencio hasta el momento planeado. En ffmpeg 6.1, con la misma entrada usada dos veces en un `filter_complex`, `adelay`/`apad` al final de la cadena se ignoran sin error: cortar el tramo en un paso y retrasarlo en otro.
 - Página Artifact con capacidad `downloads`: copiar la última página publicada y cambiar `<title>`, `<h1>`, la descripción y el nombre del archivo. Con canción: dos botones (con canción y sin música).
 - El watch de comentarios de Artifact tiene límite por sesión: decirle a Lucas que escriba los cambios en el chat.
