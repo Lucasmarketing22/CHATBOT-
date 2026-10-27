@@ -55,7 +55,7 @@ Si Lucas manda un **video de referencia**, la fase 1 es el desglose escena por e
 
 ## Estándar de calidad
 
-- Vertical 9:16; voz en inglés y subtítulos en español con voseo ("Tocá").
+- Vertical 9:16; voz en inglés y subtítulos en **español neutro** (sin voseo). Para una marca de habla hispana a la que se le va a mostrar el video, todo el texto en español neutro.
 - Personas **llamativas pero reales**: un rasgo que se recuerde, piel con poros, sin retoque; variar género, edad y origen.
 - Primer cuadro que enganche; algo visual cada 2–3 s; sin pausas de "IA".
 - Producto idéntico en todos los planos (forma, color, etiqueta).
